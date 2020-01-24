@@ -16,6 +16,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
   });
 
+  gsap.from("#app", {
+    duration: 1.7,
+    opacity: 0.1,
+    scale: 0.01,
+    // rotation: 360,
+    x: -1000,
+    y: 0,
+
+
+  });
+
 
 
 });  
