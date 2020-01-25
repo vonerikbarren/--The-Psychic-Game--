@@ -36,6 +36,8 @@ $color2: white;
 $color3: red;
 $color4: green;
 $color5: blue;
+$color6: violet;
+$color7: purple;
 
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 // Section B: Standard Color Gradients
@@ -80,7 +82,7 @@ background: linear-gradient(135deg, #434343 0%, #000000 100%);
 
 
 h1 {
-  color: $color3; 
+  color: $color6; 
   font-family: $GF1;
 
 };
@@ -90,3 +92,9 @@ h4 {
   color: $color5;
   font-family: $GF1;
 };
+
+
+#app {
+  margin-bottom: 2000px;
+}
+
