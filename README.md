@@ -22,4 +22,4 @@
 
 
 ## Section 5 - Summary 
-- 
+- Ultimately, I enjoyed creating the project. It is what set off the my learning not only with javascript, but eventually node, then React and its ecosystem, then learning other coding languages. 
