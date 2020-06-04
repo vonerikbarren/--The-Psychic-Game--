@@ -11,5 +11,7 @@
 
 ## Section 3 - Directions
 
+1. User goes to the website.
+
 
 ## Section 4 - Summary / Notes
