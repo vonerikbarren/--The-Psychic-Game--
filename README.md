@@ -7,4 +7,4 @@
 ## Section 2 - Directions
 
 
-## Summary / Notes
+## Section 3 - Summary / Notes
