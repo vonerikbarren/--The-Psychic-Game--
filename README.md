@@ -17,4 +17,4 @@
 4. The user tries to guess the letter before all their choices have been used. 
 5. Rinse and repeat sections 1-4
 
-## Section 4 - Summary / Notes
+## Section 4 - Notes
