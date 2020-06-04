@@ -6,7 +6,7 @@
 
 
 ## Section 2 - Purpose
-- The Purpose of the Psychic Game is to allow the user to guess a number that is randomly chosen from the English Alphabet. 
+- The Purpose of the Psychic Game is to allow the user to guess a number that is randomly chosen from the English Alphabet. The user simply presses any letter and it will show what the guesses are. 
 
 
 ## Section 3 - Directions
