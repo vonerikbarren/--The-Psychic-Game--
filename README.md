@@ -4,7 +4,7 @@
 ## Section 1 - Overview
 
 
-## Section 1 - Purpose
+## Section 2 - Purpose
 
 
 ## Section 2 - Directions
