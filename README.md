@@ -14,6 +14,7 @@
 1. User goes to the website.
 2. The user needs to read the very short instructions. 
 3. The user then selects from the any letters from the English Alphabet by typing.
-
+4. The user tries to guess the letter before all their choices have been used. 
+5. Rinse and repeat sections 1-4
 
 ## Section 4 - Summary / Notes
