@@ -12,6 +12,7 @@
 ## Section 3 - Directions
 
 1. User goes to the website.
+2. The user needs to read the very short instructions. 
 
 
 ## Section 4 - Summary / Notes
