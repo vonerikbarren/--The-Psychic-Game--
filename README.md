@@ -18,3 +18,8 @@
 5. Rinse and repeat sections 1-4
 
 ## Section 4 - Notes
+- No Current Notes
+
+
+## Section 5 - Summary 
+- 
