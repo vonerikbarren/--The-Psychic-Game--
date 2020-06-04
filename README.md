@@ -1,6 +1,7 @@
 # --The-Psychic-Game--
 
-## Purpose
+
+## Section 1 - Purpose
 
 
 ## Directions
