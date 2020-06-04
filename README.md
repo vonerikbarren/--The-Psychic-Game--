@@ -13,6 +13,7 @@
 
 1. User goes to the website.
 2. The user needs to read the very short instructions. 
+3. The user then selects from the any letters from the English Alphabet by typing.
 
 
 ## Section 4 - Summary / Notes
